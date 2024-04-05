@@ -1,2 +1,3 @@
 Hello this is the first file
 This is now in the new branch 
+Now I am in the remote repository.
